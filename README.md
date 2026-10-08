@@ -1,8 +1,11 @@
 
 <div align="center">
 
-<img src="./assets/itachi-github-banner.png" width="100%" alt="Itachi Uchiha Crimson Eclipse Banner" />
+<img src="./itachi-github-banner.png" width="100%" alt="Itachi Uchiha Crimson Eclipse Banner" />
 
+# 𝙁𝘼𝙍𝙃𝘼𝙉𝙐 𝙌𝘼𝙇𝘽𝙄
+
+...
 # 𝙁𝘼𝙍𝙃𝘼𝙉𝙐 𝙌𝘼𝙇𝘽𝙄
 
 ### Informatics Engineering Student | Aspiring Web Developer
