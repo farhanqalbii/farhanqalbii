@@ -5,9 +5,6 @@
 
 # 𝙁𝘼𝙍𝙃𝘼𝙉𝙐 𝙌𝘼𝙇𝘽𝙄
 
-...
-# 𝙁𝘼𝙍𝙃𝘼𝙉𝙐 𝙌𝘼𝙇𝘽𝙄
-
 ### Informatics Engineering Student | Aspiring Web Developer
 
 *Turning ideas into digital experiences.*
