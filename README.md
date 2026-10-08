@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="./assets/itachi-github-banner.png" width="100%" alt="Itachi Uchiha - Crimson Eclipse Banner" />
+<img src="./assets/itachi-github-banner.png" width="100%" alt="Itachi Uchiha Crimson Eclipse Banner" />
 
-# 𝙁𝘼𝙍𝙃𝘼𝙉U 𝙌𝘼𝙇𝘽𝙄
+# 𝙁𝘼𝙍𝙃𝘼𝙉𝙐 𝙌𝘼𝙇𝘽𝙄
 
-### `Informatics Engineering Student` · `Aspiring Web Developer`
+### Informatics Engineering Student | Aspiring Web Developer
 
 *Turning ideas into digital experiences.*
 
@@ -38,10 +38,8 @@ Mindset    : Learn, Build, Improve.
 
 ## ⚔️ Tech Stack
 
-Teknologi yang pernah digunakan atau dipelajari:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,flutter,dart,git,github,vscode&theme=dark" alt="Technology stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,flutter,dart,git,github,vscode&theme=dark" alt="Technology Stack" />
 </p>
 
 ---
@@ -56,9 +54,13 @@ Teknologi yang pernah digunakan atau dipelajari:
 
 </div>
 
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=farhanqalbii&theme=radical&hide_border=true&background=0D1117&ring=E6395B&fire=E6395B&currStreakLabel=9B5DE5" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=farhanqalbii&theme=radical&hide_border=true&background=0D1117&ring=E6395B&fire=E6395B&currStreakLabel=9B5DE5" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -68,19 +70,19 @@ Teknologi yang pernah digunakan atau dipelajari:
 
 ### 🔬 Sistem Laboratorium Lingkungan Terpadu
 
-Repository: [pengembangan-sistem-laboratorium-lingkungan-terpadu](https://github.com/farhanqalbii/pengembangan-sistem-laboratorium-lingkungan-terpadu)
+[![Repository](https://img.shields.io/badge/Repository-View_Project-8b1e3f?style=flat-square&logo=github)](https://github.com/farhanqalbii/pengembangan-sistem-laboratorium-lingkungan-terpadu)
 
 Proyek pengembangan sistem informasi laboratorium lingkungan berbasis web.
 
-- 🖥️ Fokus: pengembangan sistem informasi.
-- 🛠️ Teknologi: Laravel dan MySQL *(sesuaikan dengan implementasi aktual repository)*.
-- 🎯 Tujuan: mengembangkan aplikasi yang membantu proses pengelolaan informasi laboratorium.
+- **Fokus:** Pengembangan sistem informasi laboratorium.
+- **Teknologi:** Laravel dan MySQL, jika sesuai dengan implementasi aktual.
+- **Tujuan:** Mengembangkan aplikasi untuk mendukung pengelolaan informasi laboratorium.
 
-<p align="center">
-  <a href="https://github.com/farhanqalbii?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-8b1e3f?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
-</p>
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-8b1e3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanqalbii?tab=repositories)
+
+</div>
 
 ---
 
@@ -94,14 +96,22 @@ Proyek pengembangan sistem informasi laboratorium lingkungan berbasis web.
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-### 月読 — Keep Moving Forward
+<img src="https://img.shields.io/badge/Consistency-Over_Intensity-8b1e3f?style=for-the-badge" alt="Consistency over intensity" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 月読 · Keep Moving Forward
 
 *Quiet progress. Consistent effort. Better results.*
 
-<img src="https://img.shields.io/badge/FOCUS-LEARN%20%7C%20BUILD%20%7C%20GROW-8b1e3f?style=for-the-badge" alt="Learn Build Grow" />
-
-<sub>Designed with 🩸 and ☁️ by Farhan Qalbi</sub>
+**Designed with 🩸 and ☁️ by Farhanu Qalbi**
 
 </div>
