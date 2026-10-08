@@ -44,25 +44,9 @@ Mindset    : Learn, Build, Improve.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanqalbii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6395B&icon_color=9B5DE5&text_color=E6EDF3" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanqalbii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6395B&text_color=E6EDF3" alt="Most Used Languages" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=farhanqalbii&theme=radical&hide_border=true&background=0D1117&ring=E6395B&fire=E6395B&currStreakLabel=9B5DE5" alt="GitHub Contribution Streak" />
-
-</div>
 
 ---
 
