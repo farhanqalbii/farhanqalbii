@@ -96,6 +96,4 @@ Proyek pengembangan sistem informasi laboratorium lingkungan berbasis web.
 
 *Quiet progress. Consistent effort. Better results.*
 
-**Designed with 🩸 and ☁️ by Farhanu Qalbi**
-
 </div>
